@@ -8,9 +8,3 @@ const User = require('../models/User');
 module.exports = {
     // Placeholder for controller functions
 };
-
-// random edit 779
-
-// random edit 104
-
-// random edit 778

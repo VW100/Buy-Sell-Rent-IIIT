@@ -7,5 +7,3 @@ export default function orders() {
     </div>
   )
 }
-
-// random edit 272
